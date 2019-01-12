@@ -1,0 +1,2 @@
+vhdl work "bcd.vhd"
+vhdl work "bcd_tb.vhd"

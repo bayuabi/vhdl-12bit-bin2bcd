@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/TUGAS KULIAH/PKL LAPAN/UART/BCD/bcd_tb_isim_beh.exe" -prj "D:/TUGAS KULIAH/PKL LAPAN/UART/BCD/bcd_tb_beh.prj" "work.bcd_tb" 
